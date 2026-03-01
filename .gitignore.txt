@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entorno virtual
+env/
+*.env
+
+# Django
+DjangoGrupo/db.sqlite3
+DjangoGrupo/__pycache__/
+DjangoGrupo/staticfiles/
+DjangoGrupo/media/
+
+# VS Code
+.vscode/
